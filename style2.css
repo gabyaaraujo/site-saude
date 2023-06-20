@@ -1,0 +1,9 @@
+body{
+    background-color: rgb(6, 135, 135);
+}
+form{
+    align-items: center;
+    color: rgb(0, 0, 255);
+    font-family: Optima, sans-serif	;
+    font-size: large;
+}
